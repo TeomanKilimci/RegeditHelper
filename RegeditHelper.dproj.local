@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.753,=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022.12.13 13:57:00.426,=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022.12.13 13:57:24.193,=C:\Git\musavir-v10.2.1\Ticari SQL 503 Uretim\Lib\uRegeditHelper.pas</Transaction>
+    <Transaction>2022.12.13 14:22:03.306,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Downloads\Yeni klasör\uMain.dfm=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.12.13 14:22:03.306,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Downloads\Yeni klasör\uMain.pas=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022.12.13 14:22:16.868,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Downloads\Yeni klasör\uRegeditHelper.pas=C:\Git\musavir-v10.2.1\Ticari SQL 503 Uretim\Lib\uRegeditHelper.pas</Transaction>
+    <Transaction>2022.12.13 14:23:12.613,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Downloads\Yeni klasör\RegeditHelper.dproj=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
